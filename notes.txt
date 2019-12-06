@@ -1,0 +1,25 @@
+Some recommendations for Project 2 and the rest of the class going forward:
+
+1. Organize the website in a coherent manner
+   Use an index page to link to the other web files from, and make it look like a cohesive project.
+
+2. Make charts readable
+    rename axes to include a plain english description, not just variable names
+    If there are factors, make sure they are readable
+      If there are a crapton of factors, make that clear, change the scale, or whatever.
+    
+3. Initial model is initial
+    An appropriate interperetation of the data is key to all assignments, particularly deliverable 2.
+    
+4. display the content of the data
+    the best way to do this visually is by just writing the tagble name at the end of a block 
+
+5. Use the work from the previous assignments in the sequence without having to run the code again
+    purl and source lines of code provided in Dr. B's music insights
+
+
+
+
+
+
+
